@@ -1,2 +1,2 @@
 # NeuralNetworkImage
-Simple neural network for experiance
+dont work enough
